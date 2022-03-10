@@ -1,0 +1,19 @@
+* Target
+Implement fundermental algorithms such as sorting, searching, priority queue, etc. in pure python.
+* Routine
+** Sorting
+*** Bubble sort
+*** Insertion sort
+*** Quick sort
+*** Counting sort
+** Searching
+*** Binary search
+*** Union find
+** Priority queue
+*** Maximum heap
+*** Minimum heap
+** Linked list
+*** Reverse
+*** Reverse each k elements
+** Tree
+*** Traversal
